@@ -5,7 +5,7 @@ import './directory.styles.scss'
 const categories = [
   {
     "id": 1,
-    "title": "HATS",
+    "title": "Decks",
     "imageUrl": "https://i.ibb.co/cvpntL1/hats.png",
     "route": "shop/hats",
   },
